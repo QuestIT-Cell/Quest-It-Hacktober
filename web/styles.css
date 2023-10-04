@@ -21,7 +21,9 @@ nav {
     letter-spacing: 3px;
     color: #f8c049;
 }
-
+.issue {
+    background-color: #020b17;
+}
 .nav-links {
     list-style: none;
     display: flex;
